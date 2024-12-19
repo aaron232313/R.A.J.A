@@ -1,0 +1,16 @@
+C:\Users\aaron\Downloads\hotell\hotell\bin\Debug\hotell.exe.config
+C:\Users\aaron\Downloads\hotell\hotell\bin\Debug\hotell.exe
+C:\Users\aaron\Downloads\hotell\hotell\bin\Debug\hotell.pdb
+C:\Users\aaron\Downloads\hotell\hotell\bin\Debug\Guna.UI2.dll
+C:\Users\aaron\Downloads\hotell\hotell\obj\Debug\hotell.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Downloads\hotell\hotell\obj\Debug\hotell.all_User_Control.UC_AddRoom.resources
+C:\Users\aaron\Downloads\hotell\hotell\obj\Debug\hotell.Form1.resources
+C:\Users\aaron\Downloads\hotell\hotell\obj\Debug\hotell.Properties.Resources.resources
+C:\Users\aaron\Downloads\hotell\hotell\obj\Debug\hotell.csproj.GenerateResource.Cache
+C:\Users\aaron\Downloads\hotell\hotell\obj\Debug\hotell.exe
+C:\Users\aaron\Downloads\hotell\hotell\obj\Debug\hotell.pdb
+C:\Users\aaron\Downloads\hotell\hotell\obj\Debug\hotell.all_User_Control.UC_Records.resources
+C:\Users\aaron\Downloads\hotell\hotell\obj\Debug\hotell.all_User_Control.UC_Register.resources
+C:\Users\aaron\Downloads\hotell\hotell\obj\Debug\hotell.Form2.resources
+C:\Users\aaron\Downloads\hotell\hotell\obj\Debug\hotell.all_User_Control.UC_Employee.resources
+C:\Users\aaron\Downloads\hotell\hotell\obj\Debug\hotell.all_User_Control.CustomerDetails.resources
